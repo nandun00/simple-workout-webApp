@@ -1,1 +1,3 @@
-# MERNprojec1
+# Simple Workout web app
+
+![Alt text](ss.png)
